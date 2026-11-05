@@ -1,0 +1,6 @@
+{
+  "name": "ShikshaSetu - India College & University Comparison Engine",
+  "description": "Identify, filter, and compare top Indian universities and colleges by NIRF ranking, fees, placements, cutoffs, and ROI with an AI Admissions Counselor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
